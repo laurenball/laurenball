@@ -30,7 +30,7 @@
 <h3 align='center'>$ find . -name *lauren*</h3>
 <hr>
 <p align='center'>
-  <a target='_blank' href='mailto:lauren.l.dev@gmail.com?subject=Hi%20There!'><img src='https://img.shields.io/badge/Email%20-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white'/></a> 
-  <a target='_blank' href='https://www.linkedin.com/in/lauren-ball/'><img src='https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white'/></a> 
-  <a target='_blank' href='https://discord.com/users/221687578997424129'><img src='https://img.shields.io/badge/Discord%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white'/></a>
+  <a href='mailto:lauren.l.dev@gmail.com?subject=Hi%20There!'><img src='https://img.shields.io/badge/Email%20-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white'/></a> 
+  <a href='https://www.linkedin.com/in/lauren-ball/'><img src='https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white'/></a> 
+  <a href='https://discord.com/users/221687578997424129'><img src='https://img.shields.io/badge/Discord%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white'/></a>
 </p>
